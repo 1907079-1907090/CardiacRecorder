@@ -59,7 +59,7 @@
                     android:id="@+id/bht_search"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:background="@color/white"
+                    android:background="@color/few_blue"
                     android:queryHint="Search For Restaurants"
                     android:iconifiedByDefault="false"/>
 
